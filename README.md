@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JPabloAI.
+- 🌱 I’m currently learning about game development.
+- 🃏 Balatro motivated me, best game in the 🌎.
